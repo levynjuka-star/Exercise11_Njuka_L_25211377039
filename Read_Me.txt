@@ -37,4 +37,5 @@ West	60	70	75	80
 Author
 Name: Njuka L
 Student ID: 25211377039
-Exercise: 11 – Chart Dashboard
+Exercise: 11 – Data Visualization Dashboard
+
